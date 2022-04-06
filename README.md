@@ -1,7 +1,7 @@
 # Shopping_cart
 
 ### Introduction
-Shopping Cart HTML Page with HTML, CSS and Javascript.
+Shopping Cart webpage for bakery shop "Bake Well", it is built with HTML, CSS and Javascript.
 
 ### Instruction
 - checkout the repository
